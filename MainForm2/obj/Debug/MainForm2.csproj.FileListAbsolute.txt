@@ -1,0 +1,91 @@
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\MainForm2.exe.config
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\MainForm2.exe
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\MainForm2.pdb
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.AssemblyReference.cache
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.Form1.resources
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.Properties.Resources.resources
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.GenerateResource.cache
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.CoreCompileInputs.cache
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.exe
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.pdb
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Google.Protobuf.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\MySql.Data.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Buffers.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Memory.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\ZstdSharp.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Google.Protobuf.pdb
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Google.Protobuf.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\MySql.Data.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Buffers.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Memory.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.CopyComplete
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k_mal\source\repos\MainForm2\MainForm2\obj\Debug\MainForm2.DatabaseViewerForm.resources
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\MainForm2.exe.config
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\MainForm2.exe
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\MainForm2.pdb
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Google.Protobuf.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\MySql.Data.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Buffers.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Memory.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\ZstdSharp.dll
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Google.Protobuf.pdb
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Google.Protobuf.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\MySql.Data.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Buffers.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Memory.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.AssemblyReference.cache
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.DatabaseViewerForm.resources
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.Form1.resources
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.Properties.Resources.resources
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.GenerateResource.cache
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.CoreCompileInputs.cache
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.CopyComplete
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.exe
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.pdb
+C:\Users\k_mal\OneDrive\Рабочий стол\MainForm2\MainForm2\obj\Debug\MainForm2.csproj.SuggestedBindingRedirects.cache
